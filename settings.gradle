@@ -1,0 +1,2 @@
+rootProject.name = "Daily Steps Statistics"
+include ':app'

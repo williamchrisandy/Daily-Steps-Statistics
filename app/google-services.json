@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114047149891",
+    "firebase_url": "https://daily-step-statictis-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "daily-step-statictis",
+    "storage_bucket": "daily-step-statictis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114047149891:android:118a3ea93841d88e8df1f6",
+        "android_client_info": {
+          "package_name": "com.williamchrisandy.dailystepsstatictics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114047149891-d9tfafmm0jupi23l81fub0d28df464li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.williamchrisandy.dailystepsstatictics",
+            "certificate_hash": "c0ed2b3cac9a8478c959d2e1fcd044c6ee633af6"
+          }
+        },
+        {
+          "client_id": "114047149891-5stkkcs84mleng04mo0k6vrdrpnc2gfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmB-TFdpFzvd86Kid6ipumQ5YO7Jk0qN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114047149891-5stkkcs84mleng04mo0k6vrdrpnc2gfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
